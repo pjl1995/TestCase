@@ -1,0 +1,5 @@
+this is a message
+Exception in thread "main" java.lang.AssertionError: 5
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at com.iqiyi.qixiu.base.LogtryTest.main(LogtryTest.java:41)

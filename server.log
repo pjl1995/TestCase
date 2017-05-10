@@ -1,0 +1,10 @@
+BeforeTest start
+四月 26, 2017 10:21:58 上午 org.openqa.selenium.remote.ProtocolHandshake createSession
+信息: Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+四月 26, 2017 10:22:05 上午 org.openqa.selenium.remote.ProtocolHandshake createSession
+信息: Detected dialect: OSS
+附近模块测试成功
+热门模块测试成功
+推荐模块测试成功
+关注模块测试成功
+全部模块测试成功
